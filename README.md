@@ -19,7 +19,7 @@ My interpretation of a [Frontend Mentor](https://www.frontendmentor.io/home) Cha
   - Card number
   - Cardholder name
   - Card expiration date
-  - Card CVC
+  - Card CVV
 - Once the submit button is pressed, the information is displayed on the cards on the webpage
 - Form validation is also run on the inputs to ensure the user is entering correctly formatted information
   - Error messages will be displayed if the information is inputted incorrectly
